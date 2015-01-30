@@ -1,0 +1,28 @@
+{
+  "name": "color-temp",
+  "version": "0.0.1",
+  "description": "Converts color to temperature in Kelvins, and back.",
+  "dependencies": {},
+  "author": "Santinell",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Santinell/color-temp.git"
+  },
+  "keywords": [
+    "color",
+    "color",
+    "temp",
+    "temperature",
+    "kelvin",
+    "convert"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santinell/color-temp/issues"
+  },
+  "homepage": "https://github.com/Santinell/color-temp"
+}
