@@ -1,7 +1,7 @@
 color-temp
 ==========
 
-  #####Converts color to temperature in Kelvins, and back.
+  Converts color to temperature in Kelvins, and back.
 
 INSTALL
 =======
